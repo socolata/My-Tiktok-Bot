@@ -3,7 +3,7 @@
 
 ![TikBot Banner](https://img.shields.io/badge/Created%20By-@socolata-green?style=for-the-badge)
 ![Python Version](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge)
-![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/JK3aCFbHce)
 
 TIKBOT is a professional Selenium-based automation tool designed to boost your TikTok presence. It automates interaction with Zefoy.com to deliver followers, likes, views, and more with high stability and smart anti-detection measures.
 

@@ -11,11 +11,10 @@ TIKBOT is a professional Selenium-based automation tool designed to boost your T
 
 ## 🛠 Key Features
 * **User-Friendly Terminal UI:** Easy navigation and clear status updates.
-* **Multi-Service Support:** Works for Followers, Hearts, Comment Hearts, Views, Shares, Favorites, and Livestream.
-* **Smart Ad-Detection:** Automatically detects and adjusts XPaths if the website layout changes due to advertisements.
-* **Advanced Error Handling:** Built-in logic to handle "Element Not Interactable" errors and session timeouts.
-* **Automated Timer:** The bot detects the Zefoy cooldown timer and automatically waits until the service is "READY" to submit again.
-* **Optimized Stability:** Uses explicit waits and visibility checks to ensure a smooth automation flow.
+* **Multi-Service Support:** Works for Followers, Hearts, Comment Hearts, Views, Shares, Favorites, Reposts, and Livestream.
+* **Secure Engine:** All XPaths are obfuscated (Base64) to protect the source logic.
+* **Automated Setup:** Included `setup.bat` for one-click installation and launch.
+* **Automated Timer:** The bot detects the Zefoy cooldown timer and automatically waits until the service is "READY".
 
 ---
 
